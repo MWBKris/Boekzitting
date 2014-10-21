@@ -2,13 +2,13 @@
 
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "be.anso.www"
+        id        = "be.boekzitting.www"
         version   = "1.0.0">
 
-    <name>Anso Resto &amp; Bistro</name>
+    <name>Boekzitting</name>
 
     <description>
-        Restaurant-Bistro Anso, reeds meer dan 35 jaar een gevestigde culinaire waarde in een aangenaam, rustiek kader te Geraardsbergen. U kan genieten van een excellente keuken, we serveren lunch en U kan er à la carte eten.
+        Deze plek nodigt U uit, in een zotte tijd van massacommunicatie en media eventjes alle knoppen uit te zetten en een stukje van uw eigen geschiedenis te schrijven. Geniet.
     </description>
 
     <author href="http://my-websitebuilder.com" email="support@my-websitebuilder.com">
